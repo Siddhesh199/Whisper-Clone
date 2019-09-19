@@ -7,4 +7,4 @@ This is an application where users can share their thoughts anonymously. This is
 
 ## Home Page
 
-<img src = "images/image1.PNG" height = "800>
+<img src = "images/image1.PNG" height = "800">
