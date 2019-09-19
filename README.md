@@ -20,11 +20,11 @@ This is an application where users can share their thoughts anonymously. This is
 <img src = "images/image3.PNG">
 
 
-## Subitting a Thought
+## Submitting a Thought
 
 <img src = "images/image4.PNG">
 
 
 ## Displaying the Thought
 
-<img src = "images/image1.PNG">
+<img src = "images/image5.PNG">
