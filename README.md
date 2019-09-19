@@ -8,3 +8,23 @@ This is an application where users can share their thoughts anonymously. This is
 ## Home Page
 
 <img src = "images/image1.PNG">
+
+
+## Register
+
+<img src = "images/image2.PNG">
+
+
+## Login
+
+<img src = "images/image3.PNG">
+
+
+## Subitting a Thought
+
+<img src = "images/image4.PNG">
+
+
+## Displaying the Thought
+
+<img src = "images/image1.PNG">
